@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CandySMS</string>
+    <string name="app_desc">SMS Forwarder Service like Candy</string>
+</resources>
